@@ -1,4 +1,4 @@
-GOSH Manifesto
+Manifesto GOSH
 ==============
 O movimento do Hardware Científico Aberto e Global (GOSH, em inglês,
 "Global Open Science Hardware") busca reduzir as barreiras entre
